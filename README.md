@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshup21234
+- 👋 Hi, I’m Himanshu
 - 👀 I’m interested in Problem Solving and Consulting.
 - 🌱 I’m currently learning Metaverse with AI.
 - 💞️ I’m looking to collaborate on Data Science/Metaverse products
